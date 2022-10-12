@@ -1,4 +1,4 @@
 Connection established on 34.173.12.133:3389 
-Hello there ('50.27.44.119', 58350). Here is another random quote of wisdom for you:Python is a truly wonderful language. When somebody comes up with a good idea it takes about 1 minute and five lines to program something that almost does what you want. Then it takes only an hour to extend the script to 300 lines, after which it still does almost what you want., Jack Jansen, 8 Jul 1992
+Hello there ('50.27.44.119', 58743). Here is another random quote of wisdom for you:We will perhaps eventually be writing only small modules which are identified by name as they are used to build larger ones, so that devices like indentation, rather than delimiters, might become feasible for expressing local structure in the source language. Donald E. Knuth, "Structured Programming with goto Statements", Computing Surveys, Vol 6 No 4, Dec. 1974
  
 Socket closed successfully 

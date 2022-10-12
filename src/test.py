@@ -1,5 +1,5 @@
 import socket
-import consts
+from src import consts
 import utils
 
 
